@@ -1,3 +1,3 @@
 # RISC-V Reference SoC Tapeout
-## From Concept to Silicon
+From Concept to Silicon
 
